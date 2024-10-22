@@ -1,0 +1,10 @@
+.cabeçalho_menu-hanmburguer {
+    width: 24px;
+    height: 24px;
+    background-image: url("../img/menu.svg");
+    display: inline-block;
+}
+   
+.cabeçalho {
+    background-color: var(--branco);
+}
